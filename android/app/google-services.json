@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693225400524",
+    "project_id": "capsule-alpha",
+    "storage_bucket": "capsule-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693225400524:android:0a4fad2443f1b627d0ba69",
+        "android_client_info": {
+          "package_name": "com.mycompany.capsulealpha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHfRlPRLCJbFTY_fEICvtCWC9OLLa3jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
